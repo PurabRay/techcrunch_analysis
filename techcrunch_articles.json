@@ -1,0 +1,818 @@
+{
+    "indians": [
+        {
+            "title": "Indian government websites are still redirecting users to scam sites",
+            "link": "https://techcrunch.com/2025/01/07/indian-government-websites-are-still-redirecting-users-to-scam-sites/",
+            "date": "Jan 7, 2025",
+            "category": "Security",
+            "author": "Jagmeet Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/01/indian-government-website-scam-link-redirect.jpg?w=563",
+            "excerpt": "Some Indian government websites are still redirecting to links planted by scammers."
+        },
+        {
+            "title": "Indian online ID verification firm Signzy confirms security incident",
+            "link": "https://techcrunch.com/2024/12/02/indian-online-id-verification-firm-signzy-confirms-security-incident/",
+            "date": "Dec 2, 2024",
+            "category": "Security",
+            "author": "Jagmeet Singh, Manish Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/12/signzy-techcrunch.jpg?w=563",
+            "excerpt": "The Indian identity verification service, used by millions of customners, has confirmed a cybersecurity incident."
+        },
+        {
+            "title": "EV startup Ather seeks to raise $530 million in India IPO",
+            "link": "https://techcrunch.com/2024/09/09/ev-startup-ather-seeks-to-raise-370-million-in-india-ipo/",
+            "date": "Sep 9, 2024",
+            "category": "Startups",
+            "author": "Manish Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-967602324.jpg?w=563",
+            "excerpt": "Indian electric scooter manufacturer Ather Energy plans to raise about $530 million in an IPO."
+        },
+        {
+            "title": "Google strikes world’s largest biochar carbon removal deal with Indian startup Varaha",
+            "link": "https://techcrunch.com/2025/01/16/google-strikes-worlds-largest-biochar-carbon-removal-deal-with-indian-startup-varaha/",
+            "date": "Jan 16, 2025",
+            "category": "Climate",
+            "author": "Jagmeet Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/01/google-getty.jpg?w=563",
+            "excerpt": "Google has agreed to purchase 100,000 tons of carbon dioxide removal credits from Indian startup Varaha."
+        },
+        {
+            "title": "Accel doubles down on Sarla Aviation’s ambition to develop electric air taxis in India",
+            "link": "https://techcrunch.com/2025/01/14/accel-doubles-down-on-sarla-aviations-ambition-to-develop-electric-air-taxis-in-india/",
+            "date": "Jan 14, 2025",
+            "category": "Transportation",
+            "author": "Jagmeet Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/01/sarla-aviation-prototype.jpg?w=563",
+            "excerpt": "Accel has backed Indian startup Sarla Aviation for its aim to develop flying taxis for mass mobility in the country."
+        },
+        {
+            "title": "Lucidity snags $21M to help enterprises optimize their cloud storage",
+            "link": "https://techcrunch.com/2025/02/12/lucidity-snags-21m-to-help-enterprises-optimize-their-cloud-storage/",
+            "date": "Feb 12, 2025",
+            "category": "Enterprise",
+            "author": "Jagmeet Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/02/lucidity-co-founders.jpg?w=563",
+            "excerpt": "Lucidity, an Indian startup allowing enterprises to automate expansion and shrinking of their cloud storage, has raised $21 million in a Series A round."
+        },
+        {
+            "title": "Vanguard cuts Indian rideshare startup Ola’s valuation to $2B",
+            "link": "https://techcrunch.com/2024/11/04/vanguard-cuts-ola-valuation-to-2-billion/",
+            "date": "Nov 4, 2024",
+            "category": "In Brief",
+            "author": "Manish Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1244206986.jpg?w=562",
+            "excerpt": "Vanguard has revised its valuation of Indian ride-hailing startup Ola to about $2 billion as of the end of August."
+        },
+        {
+            "title": "CoinSwitch sues WazirX to recover trapped funds",
+            "link": "https://techcrunch.com/2024/08/28/coinswitch-sues-wazirx-to-recover-trapped-funds/",
+            "date": "Aug 28, 2024",
+            "category": "Crypto",
+            "author": "Manish Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1230471958.jpg?w=564",
+            "excerpt": "CoinSwitch, a prominent Indian cryptocurrency exchange, is suing rival platform WazirX to recover trapped funds."
+        },
+        {
+            "title": "Zepto shifts HQ to India as local listings gain appeal",
+            "link": "https://techcrunch.com/2025/01/28/zepto-shifts-domicile-to-india-as-local-listings-gain-appeal/",
+            "date": "Jan 28, 2025",
+            "category": "Commerce",
+            "author": "Manish Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/06/zepto.jpg?w=660",
+            "excerpt": "Quick-commerce startup Zepto has moved its domicile to India from Singapore, joining a growing number of Indian startups that have moved their Quick commerce startup Zepto has completed its shift of domicile from Singapore to India."
+        },
+        {
+            "title": "Ati Motors raises $20M as India’s robotics industry grows",
+            "link": "https://techcrunch.com/2025/01/22/ati-motors-raises-20m-as-indias-robotics-industry-grows/",
+            "date": "Jan 22, 2025",
+            "category": "Robotics",
+            "author": "Jagmeet Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/01/ati-motors-sherpa-xt.jpg?w=563",
+            "excerpt": "Ati Motors, an Indian startup building AI-powered autonomous mobile robots, has raised $20 million in a Series B round."
+        },
+        {
+            "title": "India’s Zyod raises $18M to expand its tech-enabled fashion manufacturing to more countries",
+            "link": "https://techcrunch.com/2024/06/24/indias-zyod-raises-18m-to-expand-its-tech-enabled-fashion-manufacturing-to-more-countries/",
+            "date": "Jun 24, 2024",
+            "category": "Startups",
+            "author": "Jagmeet Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/06/indian-apparel-factory-getty.jpg?w=563",
+            "excerpt": "Indian tech-enabled fashion manufacturing startup Zyod has raised $18 million in a new funding round led by RTP Global."
+        },
+        {
+            "title": "India’s Physics Wallah raises $210M at $2.8B valuation even as edtech funding remains scarce",
+            "link": "https://techcrunch.com/2024/09/19/indias-physics-wallah-raises-210m-at-2-8b-valuation-even-as-edtech-funding-remains-scarce/",
+            "date": "Sep 19, 2024",
+            "category": "Fundraising",
+            "author": "Manish Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/09/Alakh-Prateek-3.jpg?w=563",
+            "excerpt": "An Indian edtech startup has secured $210 million in fresh financing amid a tough funding environment for edtech companies in the country."
+        },
+        {
+            "title": "Byju’s, once valued at $22 billion, faces insolvency proceedings",
+            "link": "https://techcrunch.com/2024/07/16/byjus-once-valued-at-22-billion-faces-insolvency-proceedings/",
+            "date": "Jul 16, 2024",
+            "category": "Government & Policy",
+            "author": "Manish Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1133907408.jpg?w=563",
+            "excerpt": "An Indian court has initiated insolvency proceedings against edtech giant Byju's, once-valued at $22 billion."
+        },
+        {
+            "title": "Google-backed Pixxel launches India’s first private satellite constellation",
+            "link": "https://techcrunch.com/2025/01/14/google-backed-pixxel-launches-indias-first-private-satellite-constellation/",
+            "date": "Jan 14, 2025",
+            "category": "Space",
+            "author": "Jagmeet Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/01/pixxel-satellite-launch.jpg?w=563",
+            "excerpt": "Pixxel, an Indian space tech startup backed by Google, has successfully launched the first three hyperspectral satellites of its commercial constellation Firefly."
+        },
+        {
+            "title": "Shein must cede Indians’ data, control of local ops to re-enter India",
+            "link": "https://techcrunch.com/2024/12/17/shein-must-cede-indians-data-control-of-local-ops-to-re-enter-india/",
+            "date": "Dec 17, 2024",
+            "category": "Commerce",
+            "author": "Manish Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2150275908.jpg?w=563",
+            "excerpt": "Shein must surrender all data of Indian customers and control of its local operations to its partner, Reliance Retail, and keep operations fully local to Shein must surrender all data and ownership control to its Indian partner Reliance Retail to return to India."
+        },
+        {
+            "title": "Nvidia signs a slew of AI-related deals in India",
+            "link": "https://techcrunch.com/2024/10/23/nvidia-deepens-india-ai-drive-with-new-partnerships/",
+            "date": "Oct 23, 2024",
+            "category": "AI",
+            "author": "Manish Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2179640074.jpg?w=563",
+            "excerpt": "Nvidia is embarking on a series of partnerships with Indian firms to deploy its AI chips and technology, deepening its push into a key growth market."
+        },
+        {
+            "title": "India’s EtherealX puts $5M seed toward fully reusable launch vehicles",
+            "link": "https://techcrunch.com/2024/08/05/indias-etherealx-puts-5m-seed-toward-fully-reusable-launch-vehicles/",
+            "date": "Aug 5, 2024",
+            "category": "Space",
+            "author": "Jagmeet Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/08/etherealx-founders.jpg?w=613",
+            "excerpt": "Indian space-tech startup EtherealX aims to test its fully reusable medium-lift vehicle in 20."
+        },
+        {
+            "title": "Indian edtech Unacademy cuts another 250 jobs",
+            "link": "https://techcrunch.com/2024/07/02/indian-edtech-unacademy-cuts-another-250-jobs/",
+            "date": "Jul 2, 2024",
+            "category": "Startups",
+            "author": "Manish Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/07/Unacademy.jpeg?w=643",
+            "excerpt": "Unacademy is slashing another 250 jobs in latest round of cuts as Indian edtech sector continues to struggle."
+        },
+        {
+            "title": "India’s Rapido becomes a unicorn with fresh $120M funding",
+            "link": "https://techcrunch.com/2024/07/29/indias-rapido-becomes-unicorn-with-fresh-120-million-funding/",
+            "date": "Jul 29, 2024",
+            "category": "Fundraising",
+            "author": "Manish Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1233588990.jpg?w=563",
+            "excerpt": "Bike-taxi startup Rapido, which counts Swiggy among its investors, is the latest Indian firm to become a unicorn."
+        },
+        {
+            "title": "India clings to cheap feature phones as brands struggle to tap new smartphone buyers",
+            "link": "https://techcrunch.com/2024/07/13/india-clings-to-cheap-feature-phones-as-brands-struggle-to-tap-new-smartphone-buyers/",
+            "date": "Jul 13, 2024",
+            "category": "Featured",
+            "author": "Jagmeet Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1198466817.jpg?w=562",
+            "excerpt": "India is struggling to get new smartphone buyers, as millions of Indians don’t go for an upgrade and continue to be on feature phones."
+        },
+        {
+            "title": "Table Space eyes $2.5B valuation in India IPO",
+            "link": "https://techcrunch.com/2024/10/14/table-space-eyes-2-5b-valuation-in-india-ipo/",
+            "date": "Oct 14, 2024",
+            "category": "Startups",
+            "author": "Manish Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/10/table-space-ipo.jpg?w=620",
+            "excerpt": "Table Space is targeting a valuation of $2.5 billion or higher for an India IPO planned planned for 2025."
+        },
+        {
+            "title": "SoftBank-backed billionaire to invest $230M in Indian AI startup Krutrim",
+            "link": "https://techcrunch.com/2025/02/04/softbank-backed-billionaire-to-invest-230m-in-indian-ai-startup-krutrim/",
+            "date": "Feb 4, 2025",
+            "category": "AI",
+            "author": "Manish Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1244207281.jpg?w=562",
+            "excerpt": "Ola founder Bhavish Aggarwal is investing $230 million into an AI startup he founded as the country pushes to establish itself in a field dominated by"
+        },
+        {
+            "title": "Prosus zeroes out its 9.6% stake in Byju’s",
+            "link": "https://techcrunch.com/2024/06/24/prosus-zeroes-out-9-6-byjus-stake/",
+            "date": "Jun 24, 2024",
+            "category": "Startups",
+            "author": "Manish Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1167365312.jpg?w=563",
+            "excerpt": "Prosus, the largest external investor in Byju's, has written off its 9.6% stake in Indian edtech firm."
+        },
+        {
+            "title": "Groww pays $160M tax as it returns to India amid a startup relocation wave",
+            "link": "https://techcrunch.com/2024/10/21/groww-pays-160m-tax-as-it-returns-to-india-amid-a-startup-relocation-wave/",
+            "date": "Oct 21, 2024",
+            "category": "In Brief",
+            "author": "Manish Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1096026706.jpg?w=534",
+            "excerpt": "Indian stock trading and mutual fund startup Groww paid $159.4 million in taxes as it shifted its domicile from the U.S. back to India, the company said"
+        },
+        {
+            "title": "Microsoft backs its $3B AI push in India with public and private sector deals",
+            "link": "https://techcrunch.com/2025/01/08/microsoft-backs-its-3b-ai-push-in-india-with-public-and-private-sector-deals/",
+            "date": "Jan 8, 2025",
+            "category": "AI",
+            "author": "Manish Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/01/satya-ND-PIC-2-scaled-1.jpg?w=608",
+            "excerpt": "Microsoft announced a sweeping series of artificial intelligence partnerships across India's core sectors on Wednesday, a day after pledging to invest $3 Microsoft has forged AI alliances across core sectors in India as it kickstarts its $3 billion investment in the country."
+        },
+        {
+            "title": "Swiggy IPO nets $606 million from institutional investors",
+            "link": "https://techcrunch.com/2024/11/05/swiggy-ipo-nets-606-million-from-institutional-investors/",
+            "date": "Nov 5, 2024",
+            "category": "In Brief",
+            "author": "Manish Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1771550231.jpg?w=550",
+            "excerpt": "Swiggy has raised around $606 million from a set of more than 75 anchor investors as part of its $1.35 billion initial public offering, as the Indian food Swiggy has raised around $600 million from anchor investors as part of its $1.35 billion IPO."
+        },
+        {
+            "title": "BlackRock has slashed the value of stake in Byju’s, once worth $22B, to zero",
+            "link": "https://techcrunch.com/2024/06/07/blackrock-has-slashed-the-value-of-stake-in-byjus-once-worth-22-billion-to-zero/",
+            "date": "Jun 7, 2024",
+            "category": "Startups",
+            "author": "Manish Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1257740205.jpg?w=563",
+            "excerpt": "BlackRock, an investor in Byju's, estimates that its stake of Indian edtech giant, once valued at $22 billion, is now worth nothing."
+        },
+        {
+            "title": "Tiger Global-backed InVideo launches GenAI-based video creation",
+            "link": "https://techcrunch.com/2024/11/14/tiger-global-backed-invideo-introduces-gen-ai-based-video-creation/",
+            "date": "Nov 14, 2024",
+            "category": "Apps",
+            "author": "Ivan Mehta",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/07/teen-girl-creator-filming-GettyImages-1426152285.jpg?w=562",
+            "excerpt": "Indian video editing platform InVideo is launching a generative AI-powered video creation feature that lets you use prompts to create video clips."
+        },
+        {
+            "title": "Hacker claims data breach of India’s eMigrate labor portal",
+            "link": "https://techcrunch.com/2024/06/26/hacker-claims-data-breach-of-indias-emigrate-labor-portal/",
+            "date": "Jun 26, 2024",
+            "category": "Security",
+            "author": "Jagmeet Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/06/indian-emigrate-portal.jpg?w=563",
+            "excerpt": "A hacker claims to be selling an extensive database associated with an Indian government portal meant for blue-collar workforce emigrating from the country."
+        },
+        {
+            "title": "Swiggy turns Minis into a link-in-bio platform",
+            "link": "https://techcrunch.com/2024/07/22/indias-swiggy-turns-its-minis-service-for-small-businesses-into-a-link-in-bio-landing-page/",
+            "date": "Jul 22, 2024",
+            "category": "Commerce",
+            "author": "Ivan Mehta",
+            "image": "https://techcrunch.com/wp-content/uploads/2018/06/swiggy.jpg?w=668",
+            "excerpt": "Indian food delivery and quick commerce startup Swiggy is pivoting one of its smaller businesses, Swiggy Minis, into a link-in-bio service."
+        }
+    ],
+    "startups": [
+        {
+            "title": "‘Super weird’ is the best way to describe this startup’s pivot",
+            "link": "https://techcrunch.com/podcast/super-weird-is-the-best-way-to-describe-this-startups-pivot/",
+            "date": "Sep 20, 2024",
+            "category": "Startups",
+            "author": "Devin Coldewey, Kirsten Korosec, Rebecca Bellan",
+            "image": "N/A",
+            "excerpt": "Equity is diving into the week's weird and cool startup news, including TuSimple's not-so-simple pivot, Luminate's hair loss prevention helmet, and more money for quick commerce."
+        },
+        {
+            "title": "Could this startup’s compact nuclear reactors revolutionize cancer detection?",
+            "link": "https://techcrunch.com/2025/02/06/could-this-startups-compact-nuclear-reactors-revolutionize-cancer-detection/",
+            "date": "Feb 6, 2025",
+            "category": "Biotech & Health",
+            "author": "Mike Butcher",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/02/Astral-reactor-initial.jpeg?w=415",
+            "excerpt": "As cancer rates in the West, and globally, tack upwards due to lifestyle and environmental pollution, so does the need for the nuclear isotopes used in"
+        },
+        {
+            "title": "Stripe brings aboard new lead for ‘startup and VC partnerships’",
+            "link": "https://techcrunch.com/2025/02/03/stripe-brings-aboard-new-head-of-startup-and-vc-partnerships/",
+            "date": "Feb 3, 2025",
+            "category": "Fintech",
+            "author": "Mary Ann Azevedo",
+            "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1242296087-e1674758354141.jpg?w=668",
+            "excerpt": "Asya Bradley, a former fintech founder and investor, has joined payments giant Stripe as its new Startup & Venture Capital Partnerships lead. Bradley"
+        },
+        {
+            "title": "The curious case of Nebius, the publicly traded AI infrastructure ‘startup’",
+            "link": "https://techcrunch.com/2024/11/24/the-curious-case-of-nebius-the-publicly-traded-ai-infrastructure-startup/",
+            "date": "Nov 24, 2024",
+            "category": "Enterprise",
+            "author": "Paul Sawers",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/07/Arkady-Volozh-80-e1732200971317.jpg?w=563",
+            "excerpt": "Nebius is an unusual beast -- it's a public company, sure, but a startup in just about every sense of the word."
+        },
+        {
+            "title": "LatAm startups: Apply to Startup Battlefield 200",
+            "link": "https://techcrunch.com/2024/05/27/latam-startups-apply-to-startup-battlefield-200/",
+            "date": "May 27, 2024",
+            "category": "Startups",
+            "author": "TechCrunch Events",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/05/SUB200-General-Article-Image-Header-1920x1080_V1-2.png?w=668",
+            "excerpt": "Here’s a shoutout to LatAm early-stage startup founders! We want YOU to apply for the Startup Battlefield 200 at TechCrunch Disrupt 2024. But you’d better"
+        },
+        {
+            "title": "When startups fail, these startups clean up",
+            "link": "https://techcrunch.com/2024/03/03/when-startups-fail-these-startups-clean-up/",
+            "date": "Mar 3, 2024",
+            "category": "Fintech",
+            "author": "Mary Ann Azevedo",
+            "image": "https://techcrunch.com/wp-content/uploads/2019/11/daniel-von-appen-QUHlPs4y8PQ-unsplash-e1709322209817.jpg?w=500",
+            "excerpt": "TechCrunch Fintech looks at how shutting down startups is big business, Stripe’s new valuation, Klarna’s latest AI update and more."
+        },
+        {
+            "title": "Y Combinator deletes posts after a startup’s demo goes viral",
+            "link": "https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/",
+            "date": "4 days ago",
+            "category": "Startups",
+            "author": "Charles Rollet",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/11/surveillance-moshed-blue-yellow-getty_36d363.jpg?w=573",
+            "excerpt": "YC deleted a controversial demo video from one of its startups, which monitors factory workers with AI cameras."
+        },
+        {
+            "title": "Humane’s AI Pin is dead, as HP buys startup’s assets for $116M",
+            "link": "https://techcrunch.com/2025/02/18/humanes-ai-pin-is-dead-as-hp-buys-startups-assets-for-116m/",
+            "date": "Feb 18, 2025",
+            "category": "AI",
+            "author": "Maxwell Zeff",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/02/Untitled-design-3.jpg?w=668",
+            "excerpt": "Humane announced on Tuesday that most of its assets have been acquired by HP for $116 million. The hardware startup is immediately discontinuing sales of"
+        },
+        {
+            "title": "Why AI regulation is every startup’s business, with Andreessen Horowitz Martin Casado",
+            "link": "https://techcrunch.com/video/why-ai-regulation-is-every-startups-business-with-andreessen-horowitz-martin-casado/",
+            "date": "Oct 28, 2024",
+            "category": "AI",
+            "author": "Yashad Kulkarni",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/10/maxresdefault_2d2f02.jpg?w=668",
+            "excerpt": ""
+        },
+        {
+            "title": "The startup battle begins now: TechCrunch Startup Battlefield 200 applications are open",
+            "link": "https://techcrunch.com/2025/02/24/the-startup-battle-begins-now-techcrunch-startup-battlefield-200-applications-are-now-open/",
+            "date": "Feb 24, 2025",
+            "category": "TechCrunch Disrupt 2025",
+            "author": "TechCrunch Events",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/11/54106407705_97a51974e8_o_f0e3a8.jpg?w=563",
+            "excerpt": "TechCrunch Startup Battlefield 200 applications are now open for early-stage startups to compete at Disrupt 2025 from October 27-29. Apply now."
+        },
+        {
+            "title": "The fall of EV startup Fisker",
+            "link": "https://techcrunch.com/storyline/the-fall-of-ev-startup-fisker/",
+            "date": "N/A",
+            "category": "Transportation",
+            "author": "N/A",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/10/fisker-timeline-v7.jpg?w=668",
+            "excerpt": ""
+        },
+        {
+            "title": "Hexa, the startup studio behind Aircall and Swan, unveils its next batch of startups",
+            "link": "https://techcrunch.com/2024/12/16/hexa-the-startup-studio-behind-aircall-and-swan-unveils-its-next-batch-of-startups/",
+            "date": "Dec 16, 2024",
+            "category": "Startups",
+            "author": "Romain Dillet",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/12/Hexa-24.jpg?w=563",
+            "excerpt": "Hexa, a Paris-based startup studio that has launched dozens of B2B software companies, is sharing a list of its next batch of projects that are soon going"
+        },
+        {
+            "title": "Startups Yearly: The biggest startup stories from 2023",
+            "link": "https://techcrunch.com/2023/12/29/startups-yearly-the-biggest-startup-stories-from-2023/",
+            "date": "Dec 29, 2023",
+            "category": "Startups",
+            "author": "Haje Jan Kamps",
+            "image": "https://techcrunch.com/wp-content/uploads/2023/12/Startups-Yearly-2023-Haje-Kamps.jpg?w=668",
+            "excerpt": "Welcome to Startups Weekly. Sign up here to get it in your inbox every Friday. Thank you for subscribing to Startups Weekly. This week, I’m taking my"
+        },
+        {
+            "title": "Femtech startup Perelel is acquiring Founders Fund-backed sexual health startup LOOM",
+            "link": "https://techcrunch.com/2024/10/02/femtech-startup-perelel-is-acquiring-founders-fund-backed-sexual-health-startup-loom/",
+            "date": "Oct 2, 2024",
+            "category": "Startups",
+            "author": "Dominic-Madori Davis",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/10/horizontal-1.jpg?w=563",
+            "excerpt": "The past few years have seen the topic of women’s health thrown into the sociopolitical spotlight."
+        },
+        {
+            "title": "A $60M venture fund with a twist, and more startup-on-startup acquisitions",
+            "link": "https://techcrunch.com/podcast/a-60m-venture-fund-with-a-twist-and-more-startup-on-startup-acquisitions/",
+            "date": "Apr 10, 2024",
+            "category": "Startups",
+            "author": "Alex Wilhelm, Theresa Loconsolo",
+            "image": "N/A",
+            "excerpt": "Today on Equity, we dig into Multiverse's acquisition of Searchlight, Guesty's massive Series F, Monad Labs, and Cyera's megaround."
+        },
+        {
+            "title": "Boost your startup’s growth with a ScaleUp package at TC Disrupt 2024",
+            "link": "https://techcrunch.com/2024/05/21/boost-your-startups-growth-with-a-scaleup-package-at-tc-disrupt-2024/",
+            "date": "May 21, 2024",
+            "category": "TechCrunch Disrupt 2024",
+            "author": "TechCrunch Events",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/05/Post_Header_General_1920x1080.png?w=668",
+            "excerpt": "Hey there, Series A to B startups with $35 million or less in funding — we've got an exciting opportunity that's tailor-made for your growth journey! If"
+        },
+        {
+            "title": "A startup’s guide to cyberthreats — threat modeling and proactive security",
+            "link": "https://techcrunch.com/2024/01/10/a-startups-guide-to-cyberthreats-threat-modeling-and-proactive-security/",
+            "date": "Jan 10, 2024",
+            "category": "Startups",
+            "author": "Cherlynn Cha",
+            "image": "https://techcrunch.com/wp-content/uploads/2020/11/cyber_attack_grenade_on_yellow_background-1.jpeg?w=616",
+            "excerpt": "Cybersecurity is a complex and multifaceted field, and even with thorough threat modeling, there's always a risk of compromise."
+        },
+        {
+            "title": "From Yandex’s ashes comes Nebius, a ‘startup’ with plans to be a European AI compute leader",
+            "link": "https://techcrunch.com/2024/07/21/from-yandexs-ashes-comes-nebius-a-startup-with-plans-to-be-a-european-ai-compute-leader/",
+            "date": "Jul 21, 2024",
+            "category": "Featured",
+            "author": "Paul Sawers",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/07/Arkady-Volozh-10-e1733135660726.jpg?w=563",
+            "excerpt": "Nebius is the new name for Yandex N.V., the holding company for Russian tech giant Yandex. And Arkady Volozh couldn't be more excited."
+        },
+        {
+            "title": "Why VCs are investing in startups that help other startups shut down",
+            "link": "https://techcrunch.com/2024/02/27/vcs-back-wind-down-failed-startups/",
+            "date": "Feb 27, 2024",
+            "category": "Startups",
+            "author": "Mary Ann Azevedo",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/02/startup-wind-down.jpg?w=668",
+            "excerpt": "And with an estimated 90% startup failure rate, there's no shortage of potential customers for startups helping other startups shutter."
+        },
+        {
+            "title": "India pledges fresh billion for startups",
+            "link": "https://techcrunch.com/2025/01/31/india-pledges-fresh-billion-for-startups/",
+            "date": "Jan 31, 2025",
+            "category": "Startups",
+            "author": "Manish Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2196420064.jpg?w=563",
+            "excerpt": "India announced a new $1.15 billion Fund of Funds for startups on Saturday while unveiling sweeping regulatory reforms and an ambitious nuclear energy"
+        },
+        {
+            "title": "Introducing the ScaleUp Startups Program at Disrupt 2024 for Series A to B startups",
+            "link": "https://techcrunch.com/2024/04/11/introducing-the-scaleup-startups-program-at-disrupt-2024-for-series-a-to-b-startups/",
+            "date": "Apr 11, 2024",
+            "category": "TechCrunch Disrupt 2024",
+            "author": "TechCrunch Events",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/04/image_circle-1920x1080-1.png?w=668",
+            "excerpt": "We are thrilled to unveil our latest innovation: ScaleUp Startups Exhibitor Program at TechCrunch Disrupt 2024. Tailored specifically for startups in"
+        },
+        {
+            "title": "True Anomaly CEO finds the silver lining in the startup’s anomalous first mission",
+            "link": "https://techcrunch.com/2024/04/09/true-anomaly-ceo-finds-the-silver-lining-in-the-startups-anomalous-first-mission/",
+            "date": "Apr 9, 2024",
+            "category": "Space",
+            "author": "Aria Alamalhodaei",
+            "image": "https://techcrunch.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-16-at-21.15.42.png?w=668",
+            "excerpt": "True Anomaly's first mission didn't go as planned by any stretch of the imagination, but the space and defense startup's CEO, Even Rogers, said he doesn't"
+        },
+        {
+            "title": "The 51 most disruptive startups of 2024",
+            "link": "https://techcrunch.com/2024/12/13/the-51-most-disruptive-startups-of-2024/",
+            "date": "Dec 13, 2024",
+            "category": "Startups",
+            "author": "Julie Bort, Aria Alamalhodaei, Rebecca Bellan, Dominic-Madori Davis, Tim De Chant, Ingrid Lunden, Margaux MacColl, Manish Singh, Rebecca Szkutak, Marina Temkin, Kyle Wiggers",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/12/disruptive-companies-2024.jpg?w=668",
+            "excerpt": "These startups have fascinating new technologies, business models, founder stories or are pushing an industry forward in exciting ways."
+        },
+        {
+            "title": "Hopeful hearts and other startup news",
+            "link": "https://techcrunch.com/2024/12/06/hopeful-hearts-and-other-startup-news/",
+            "date": "Dec 6, 2024",
+            "category": "Startups",
+            "author": "Anna Heim",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2162311441.jpg?w=583",
+            "excerpt": "Welcome to Startups Weekly — your weekly recap of everything you can’t miss from the world of startups. Want it in your inbox every Friday? Sign up here."
+        },
+        {
+            "title": "Startup Battlefield 200 Runnerup Announcement",
+            "link": "https://techcrunch.com/video/startup-battlefield-200-runnerup-announcement/",
+            "date": "Oct 30, 2024",
+            "category": "Startups",
+            "author": "Yashad Kulkarni",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/10/maxresdefault_f32db7.jpg?w=668",
+            "excerpt": ""
+        },
+        {
+            "title": "Announcing the winner of Startup Battlefield 200",
+            "link": "https://techcrunch.com/video/announcing-the-winner-of-startup-battlefield-200/",
+            "date": "Oct 30, 2024",
+            "category": "Startups",
+            "author": "Yashad Kulkarni",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/10/maxresdefault_9b5efa.jpg?w=668",
+            "excerpt": ""
+        },
+        {
+            "title": "AI startups’ margin profile could ding their long-term worth",
+            "link": "https://techcrunch.com/2024/01/23/ai-startups-margins-low-valuations/",
+            "date": "Jan 23, 2024",
+            "category": "Startups",
+            "author": "Alex Wilhelm",
+            "image": "https://techcrunch.com/wp-content/uploads/2023/10/puzzle-ai-triptych-01.jpg?w=668",
+            "excerpt": "Despite all the enthusiasm, there's a niggling detail that deserves our attention: AI startups often have worse economics than most software startups."
+        },
+        {
+            "title": "Key Compliance Areas for Startup CEOs",
+            "link": "https://techcrunch.com/sponsor/kintsugi/key-compliance-areas-for-startup-ceos/",
+            "date": "Oct 8, 2024",
+            "category": "Sponsored",
+            "author": "N/A",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/10/100424-Hosted-Content-Hero-Image.png?w=562",
+            "excerpt": ""
+        },
+        {
+            "title": "Digital banking startup Mercury abruptly shuttered service for startups in Ukraine, Nigeria, other countries",
+            "link": "https://techcrunch.com/2024/07/23/mercury-bank-fintech-sanctions-ukraine-nigeria/",
+            "date": "Jul 23, 2024",
+            "category": "Startups",
+            "author": "Christine Hall, Mary Ann Azevedo, Tage Kene-Okafor",
+            "image": "https://techcrunch.com/wp-content/uploads/2023/12/money-spill-2023.jpg?w=668",
+            "excerpt": "Digital banking startup Mercury informed some founders that it is no longer serving customers in certain countries, including Ukraine."
+        },
+        {
+            "title": "Another week in the circle of startup life",
+            "link": "https://techcrunch.com/2024/08/16/another-week-in-the-circle-of-startup-life/",
+            "date": "Aug 16, 2024",
+            "category": "Fundraising",
+            "author": "Anna Heim",
+            "image": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1216550911.jpg?w=563",
+            "excerpt": "Welcome to Startups Weekly — your weekly recap of everything you can’t miss from the world of startups. I’m Anna Heim from TechCrunch’s international"
+        }
+    ],
+    "founders": [
+        {
+            "title": "Those ‘Founder mode’ memes keep coming",
+            "link": "https://techcrunch.com/2024/09/04/those-founder-mode-memes-keep-coming/",
+            "date": "Sep 4, 2024",
+            "category": "In Brief",
+            "author": "Matt Rosoff",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/09/paul-graham-in-brief.jpg?w=668",
+            "excerpt": "If you spend time on X or Threads, where snarky memes rise and fall, you've probably seen posts referencing \"founder mode\" over the last few days, like If you spend time on X or Threads, where snarky memes rise and fall, you've probably seen posts referencing \"founder mode\" over the last few days."
+        },
+        {
+            "title": "Why Crosscut Ventures is ‘following the founders’ into climate, space, and beyond",
+            "link": "https://techcrunch.com/2024/10/29/why-crosscut-ventures-is-following-the-founders-into-climate-space-and-beyond/",
+            "date": "Oct 29, 2024",
+            "category": "Climate",
+            "author": "Tim De Chant",
+            "image": "https://techcrunch.com/wp-content/uploads/2020/12/nasa-yZygONrUBe8-unsplash.jpg?w=563",
+            "excerpt": "The focus of the new $100 million fund, Crosscut’s sixth, will include energy and power, space and underwater exploration, advanced manufacturing, advanced materials, and security and defense."
+        },
+        {
+            "title": "Fisker collapsed under the weight of its founder’s promises",
+            "link": "https://techcrunch.com/2024/06/01/fisker-collapsed-under-the-weight-of-its-founders-promises/",
+            "date": "Jun 1, 2024",
+            "category": "Social",
+            "author": "Cody Corrall",
+            "image": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1154012955.jpg?w=563",
+            "excerpt": "Welcome back to TechCrunch’s Week in Review — TechCrunch’s newsletter recapping the week’s biggest news. Want it in your inbox every Saturday? Sign up"
+        },
+        {
+            "title": "HR software startup OnPay was inspired by the founder’s family payroll business",
+            "link": "https://techcrunch.com/2025/01/07/hr-software-startup-onpay-was-inspired-by-the-founders-family-payroll-business/",
+            "date": "Jan 7, 2025",
+            "category": "Fundraising",
+            "author": "Kyle Wiggers",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1502217391.jpg?w=563",
+            "excerpt": "OnPay, an HR and payroll software provider, has raised over $100 million in equity and debt in a new fundraising round."
+        },
+        {
+            "title": "Telegram quietly updates website to allow abuse reports following founder’s arrest",
+            "link": "https://techcrunch.com/2024/09/05/telegram-quietly-enables-users-to-report-private-chats-to-moderators-after-founders-arrest/",
+            "date": "Sep 5, 2024",
+            "category": "Privacy",
+            "author": "Manish Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-489467998.jpg?w=564",
+            "excerpt": "Telegram has updated its website to explicitly allow users to report private chats to its moderators, the company said in its FAQ page, as it updated some Telegram has quietly updated its policy to allow users to report private chats to its moderators following the arrest of Pavel Durov."
+        },
+        {
+            "title": "Entrepreneur Marc Lore on ‘founder mode,’ bad hires, and why avoiding risk is deadly",
+            "link": "https://techcrunch.com/2024/11/24/entrepreneur-marc-lore-on-founder-mode-bad-hires-and-why-avoiding-risk-is-deadly/",
+            "date": "Nov 24, 2024",
+            "category": "Startups",
+            "author": "Connie Loizos",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/11/54140259954_8bd54421fc_c.jpg?w=562",
+            "excerpt": "Entrepreneur Marc Lore has already sold two companies for billions of dollars, collectively. Now he plans to take his food delivery and take-out business"
+        },
+        {
+            "title": "Telegram founder’s arrest, and who’s using acqui-hires to tip-toe around antitrust",
+            "link": "https://techcrunch.com/podcast/telegram-founders-arrest-and-whos-using-acqui-hires-to-tip-toe-around-antitrust/",
+            "date": "Aug 30, 2024",
+            "category": "Startups",
+            "author": "Mary Ann Azevedo, Devin Coldewey, Rebecca Bellan",
+            "image": "N/A",
+            "excerpt": "Today on Equity, we're diving into deals from Piramidal and Comun, Fluid Truck's 'hostile takover' and Telegram CEO Pavel Durov's arrest."
+        },
+        {
+            "title": "Ola founder’s Krutrim becomes India’s first AI unicorn",
+            "link": "https://techcrunch.com/2024/01/26/ola-founder-ai-startup-krutrim-unicorn-in-50m-funding/",
+            "date": "Jan 26, 2024",
+            "category": "AI",
+            "author": "Manish Singh",
+            "image": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-625022782-2.jpg?w=562",
+            "excerpt": "Krutrim, an AI startup founded by Ola founder Bhavish Aggarwal, said it has raised a funding round that values it at $1 billion. The startup, founded last AI firm Krutrim is Indian entrepreneur Bhavish Aggarwal's third unicorn startup."
+        },
+        {
+            "title": "New study of unicorn founders finds most are ‘underdogs,’ and female founders are rising",
+            "link": "https://techcrunch.com/2024/03/27/unicorn-founders/",
+            "date": "Mar 27, 2024",
+            "category": "Startups",
+            "author": "Mike Butcher",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/03/Screenshot-2024-03-26-at-22.26.09.png?w=560",
+            "excerpt": "A new study that zeros-in on the founders of so-called “unicorns” -- companies worth over a billion dollars -- has found most have \"underdog” founders who A new study which zeros-in on the founders of so-called “Unicorns” (companies worth over a billions dollars) has found most have \"underdog” founders, are often drawn from the top 10 universities, a rising female founder make-up, but no obvious monopoly at Seed stage of funding for VCs."
+        },
+        {
+            "title": "AI founders play musical chairs",
+            "link": "https://techcrunch.com/2024/08/09/ai-founders-play-musical-chairs/",
+            "date": "Aug 9, 2024",
+            "category": "Startups",
+            "author": "Marina Temkin",
+            "image": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-670880023.jpg?w=530",
+            "excerpt": "Welcome to Startups Weekly — your weekly recap of everything you can’t miss from the world of startups. Want it in your inbox every Friday? Sign up here."
+        },
+        {
+            "title": "JP Morgan’s head of startup banking says ‘Founder Mode’ won’t get you a unicorn",
+            "link": "https://techcrunch.com/podcast/jp-morgans-head-of-startup-banking-says-founder-mode-wont-get-you-a-unicorn/",
+            "date": "Sep 18, 2024",
+            "category": "Startups",
+            "author": "Kirsten Korosec",
+            "image": "N/A",
+            "excerpt": "J.P. Morgan's Head of Startup Banking, Ashraf Hebela, joins the Equity podcast to discuss how to build a unicorn, new tech hubs, and why 'Founder Mode' can do more harm than good."
+        },
+        {
+            "title": "2024: Founder mode, AI, and the ‘Rise of the Broligarchs’",
+            "link": "https://techcrunch.com/podcast/2024-founder-mode-ai-and-the-rise-of-the-broligarchs/",
+            "date": "Dec 27, 2024",
+            "category": "Startups",
+            "author": "Theresa Loconsolo, Kirsten Korosec, Margaux MacColl, Devin Coldewey, Anthony Ha",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-color-v2.jpg?w=668",
+            "excerpt": "The Equity podcast is looking back on the biggest stories in tech in 2024, from AI advancements to venture funding trends and disruptive startups."
+        },
+        {
+            "title": "Former Bonobos founder is rethinking social media",
+            "link": "https://techcrunch.com/podcast/former-bonobos-founder-is-rethinking-social-media/",
+            "date": "Dec 10, 2024",
+            "category": "Startups",
+            "author": "Maggie Stamets",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/10/54103661669_b71fc4a2ad_k.jpg?w=563",
+            "excerpt": ""
+        },
+        {
+            "title": "Inside EV startup Fisker’s collapse: How the company crumbled under its founders’ whims",
+            "link": "https://techcrunch.com/2024/05/31/fisker-collapse-investigation-ev-ocean-suv-henrik-geeta/",
+            "date": "May 31, 2024",
+            "category": "Featured",
+            "author": "Sean O'Kane",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/05/fisker-notice-v2.jpg?w=668",
+            "excerpt": "Insiders tell TechCrunch the story of how the flashy EV startup went from making big promises to struggling to survive."
+        },
+        {
+            "title": "Founders, are events useful?",
+            "link": "https://techcrunch.com/2023/10/13/founders-are-events-useful/",
+            "date": "Oct 13, 2023",
+            "category": "Startups",
+            "author": "Haje Jan Kamps",
+            "image": "https://techcrunch.com/wp-content/uploads/2023/10/20190425-DSC05781.jpg?w=668",
+            "excerpt": "Welcome to Startups Weekly. Sign up here to get it in your inbox every Friday. A few months ago, Alexis Ohanian, the co-founder of Reddit, tweeted that if"
+        },
+        {
+            "title": "Postmates’ founder’s new app TipTop offers instant cash for your stuff",
+            "link": "https://techcrunch.com/2024/01/18/postmates-founders-new-app-tiptop-offers-instant-cash-for-your-stuff/",
+            "date": "Jan 18, 2024",
+            "category": "Apps",
+            "author": "Sarah Perez",
+            "image": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1343444887.jpg?w=562",
+            "excerpt": "When TechCrunch's former editor-in-chief Matthew Panzarino joined a startup, we knew it was one that would pique our interest. Panzarino, well-known among"
+        },
+        {
+            "title": "Telegram founder Pavel Durov arrested in France",
+            "link": "https://techcrunch.com/2024/08/25/telegram-founder-pavel-durov-reportedly-arrested-in-france/",
+            "date": "Aug 25, 2024",
+            "category": "Government & Policy",
+            "author": "Anthony Ha",
+            "image": "https://techcrunch.com/wp-content/uploads/2023/06/maxresdefault_f0b7b4.jpg?w=668",
+            "excerpt": "Pavel Durov, founder and CEO of messaging app Telegram, was arrested on Saturday evening while leaving his private jet at France’s Le Bourget Airport, as"
+        },
+        {
+            "title": "Is this 32-year-old a brilliant founder, or a deceptive fraudster?",
+            "link": "https://techcrunch.com/2025/02/25/is-this-32-year-old-a-brilliant-founder-or-a-deceptive-fraudster/",
+            "date": "4 days ago",
+            "category": "Fintech",
+            "author": "Mary Ann Azevedo",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1529787597.jpg?w=563",
+            "excerpt": "Hi there, welcome to TechCrunch’s regular fintech newsletter. We’re going on hiatus for a bit, but you can still find our must-see fintech coverage,"
+        },
+        {
+            "title": "Forget ‘Founder Mode,’ what about Customer Mode?",
+            "link": "https://techcrunch.com/podcast/forget-founder-mode-what-about-customer-mode/",
+            "date": "Jan 29, 2025",
+            "category": "Startups",
+            "author": "Theresa Loconsolo, Rebecca Bellan",
+            "image": "https://techcrunch.com/wp-content/uploads/2023/06/money-grab-bryce.jpg?w=668",
+            "excerpt": "Ed Zitron joins Equity to discuss the decline of traditional online services, shifting from ‘founder mode’ to ‘customer mode,’ and the future of generative AI companies like OpenAI."
+        },
+        {
+            "title": "How are founders positioning themselves for the next 4 years?",
+            "link": "https://techcrunch.com/podcast/how-are-founders-positioning-themselves-for-the-next-4-years/",
+            "date": "Jan 24, 2025",
+            "category": "Startups",
+            "author": "Theresa Loconsolo, Kirsten Korosec, Anthony Ha, Margaux MacColl",
+            "image": "https://techcrunch.com/wp-content/uploads/2020/07/bryce-durbin-capitol.jpeg?w=668",
+            "excerpt": "Equity's discussing the latest from inauguration week, including how the new administration is engaging with startups, TikTok’s comeback, a $100B project from OpenAI and others, the Divvy Homes acquisition fallout, and the IPO market for 2025."
+        },
+        {
+            "title": "Startup founders flooded inauguration parties hopeful for dealmaking",
+            "link": "https://techcrunch.com/2025/01/21/startup-founders-flooded-inauguration-parties-hopeful-for-dealmaking/",
+            "date": "Jan 21, 2025",
+            "category": "Startups",
+            "author": "Margaux MacColl",
+            "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2194634639.jpg?w=562",
+            "excerpt": "All throughout America’s capital, founders enjoyed the fruits of their industry’s political jockeying."
+        },
+        {
+            "title": "Why founders shouldn’t chase massive TAMs",
+            "link": "https://techcrunch.com/2024/11/07/why-founders-shouldnt-chase-massive-tams/",
+            "date": "Nov 7, 2024",
+            "category": "TechCrunch Disrupt 2024",
+            "author": "Tim De Chant",
+            "image": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1008770270.jpg?w=563",
+            "excerpt": "Not every investor will be impressed by a founder’s massive prospective TAM, short for total addressable market."
+        },
+        {
+            "title": "AI safety advocates tell founders to slow down",
+            "link": "https://techcrunch.com/2024/11/05/ai-safety-advocates-tell-founders-to-slow-down/",
+            "date": "Nov 5, 2024",
+            "category": "TechCrunch Disrupt 2024",
+            "author": "Amanda Silberling",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/02/connectwise-flaw-huntress-security.jpg?w=563",
+            "excerpt": "\"Move cautiously and red-team things\" is sadly not as catchy as \"move fast and break things.\" But three AI safety advocates made it clear to startup"
+        },
+        {
+            "title": "Female Founders Fund returns its Fund I",
+            "link": "https://techcrunch.com/2024/10/31/female-founders-fund-returns-its-fund-i/",
+            "date": "Oct 31, 2024",
+            "category": "In Brief",
+            "author": "Dominic-Madori Davis",
+            "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-683423178.jpg?w=561",
+            "excerpt": "After 10 years, the Female Founders Fund has returned its $5.85 million Fund I, according to Fortune. The news makes FFF one of the few diverse-focused"
+        },
+        {
+            "title": "Newchip’s bankruptcy serves as a cautionary tale to founders",
+            "link": "https://techcrunch.com/podcast/newchip-bankruptcy-founder-impact/",
+            "date": "May 15, 2024",
+            "category": "Startups",
+            "author": "Mary Ann Azevedo, Haje Jan Kamps, Christine Hall",
+            "image": "N/A",
+            "excerpt": "Today on Equity, we're diving deep into how Newchip's bankruptcy threatened the cap tables of thousands of startups."
+        },
+        {
+            "title": "How founders should hire tech talent in 2025",
+            "link": "https://techcrunch.com/video/how-founders-should-hire-tech-talent-in-2025/",
+            "date": "Oct 29, 2024",
+            "category": "Enterprise",
+            "author": "Yashad Kulkarni",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/10/maxresdefault_040c21.jpg?w=668",
+            "excerpt": ""
+        },
+        {
+            "title": "How to be an inspirational startup founder",
+            "link": "https://techcrunch.com/2023/10/31/how-to-be-an-inspirational-startup-founder/",
+            "date": "Oct 31, 2023",
+            "category": "Startups",
+            "author": "Scott Friend",
+            "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1367176386.jpg?w=668",
+            "excerpt": "For startup founders, the ability to inspire has everything to do with the ability to get others to see the world the way you do."
+        },
+        {
+            "title": "Amazon hires the founders of AI robotics startup Covariant",
+            "link": "https://techcrunch.com/2024/08/31/amazon-hires-the-founders-of-robotics-ai-startup-covariant/",
+            "date": "Aug 31, 2024",
+            "category": "Robotics",
+            "author": "Anthony Ha",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/08/about-amazon-hero-20230227-amazon-288.jpg?w=668",
+            "excerpt": "Amazon announced Friday evening that it has hired Covariant's founders — Pieter Abbeel, Peter Chen, and Rocky Duan — along with “about a quarter” of the"
+        },
+        {
+            "title": "This founder had to train his AI not to Rickroll people",
+            "link": "https://techcrunch.com/2024/08/21/this-founder-had-to-train-his-ai-to-not-rickroll-people/",
+            "date": "Aug 21, 2024",
+            "category": "AI",
+            "author": "Amanda Silberling",
+            "image": "https://techcrunch.com/wp-content/uploads/2024/08/rick-astley-1686788097.jpg?w=539",
+            "excerpt": "One AI assistant learned too much from the internet and ended up \"rickrolling\" a client instead of sharing a tutorial video."
+        },
+        {
+            "title": "Web Summit derailed by founder’s public fight with those supporting Israel in Hamas war",
+            "link": "https://techcrunch.com/2023/10/16/websummit-derailed-by-founders-public-fight-with-those-supporting-israel-in-hamas-conflict/",
+            "date": "Oct 16, 2023",
+            "category": "Startups",
+            "author": "Ingrid Lunden",
+            "image": "https://techcrunch.com/wp-content/uploads/2022/09/43965968860_0f0b8699b9_c.jpg?w=543",
+            "excerpt": "Web Summit, the big tech conference brand that runs events in several cities and whose 70,000 person flagship event in Lisbon is taking place next month,"
+        }
+    ]
+}
