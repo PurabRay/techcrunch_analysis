@@ -32,7 +32,6 @@
             "Manish Singh"
         ],
         "startups": [
-            "Ather",
             "Ather Energy"
         ],
         "valuations": [
@@ -48,9 +47,7 @@
             "Jagmeet Singh"
         ],
         "startups": [
-            "Varaha Google",
-            "Google",
-            "Varaha"
+            "Varaha Google"
         ],
         "valuations": [],
         "sentiment": "positive"
@@ -63,8 +60,8 @@
             "Jagmeet Singh"
         ],
         "startups": [
-            "Sarla Aviation",
-            "Accel"
+            "Accel",
+            "Sarla Aviation"
         ],
         "valuations": [],
         "sentiment": "positive"
@@ -77,12 +74,9 @@
             "Jagmeet Singh"
         ],
         "startups": [
-            "Lucidity",
-            "Luc",
-            "ity"
+            "Lucidity"
         ],
         "valuations": [
-            "$21 million",
             "$21M"
         ],
         "sentiment": "positive"
@@ -99,7 +93,6 @@
             "Ola"
         ],
         "valuations": [
-            "$2 billion",
             "$2B"
         ],
         "sentiment": "neutral"
@@ -142,7 +135,6 @@
             "Ati Motors"
         ],
         "valuations": [
-            "$20 million",
             "$20M"
         ],
         "sentiment": "positive"
@@ -159,7 +151,6 @@
             "Zyod"
         ],
         "valuations": [
-            "$18 million",
             "$18M"
         ],
         "sentiment": "neutral"
@@ -175,9 +166,7 @@
             "Physics Wallah"
         ],
         "valuations": [
-            "$2.8B",
-            "$210 million",
-            "$210M"
+            "$2.8B"
         ],
         "sentiment": "positive"
     },
@@ -189,8 +178,7 @@
             "Manish Singh"
         ],
         "startups": [
-            "Byju\u2019",
-            "Byju"
+            "Byju'"
         ],
         "valuations": [
             "$22 billion"
@@ -222,7 +210,6 @@
         ],
         "startups": [
             "Reliance Retail",
-            "in",
             "Shein"
         ],
         "valuations": [],
@@ -274,12 +261,11 @@
         "excerpt": "Bike-taxi startup Rapido, which counts Swiggy among its investors, is the latest Indian firm to become a unicorn.",
         "section": "indians",
         "founders": [
-            "S",
             "Manish Singh"
         ],
         "startups": [
-            "wiggy",
-            "Rapido"
+            "Rapido",
+            "wiggy"
         ],
         "valuations": [
             "$120M"
@@ -305,12 +291,9 @@
             "Manish Singh"
         ],
         "startups": [
-            "IPO Table Space",
-            "Table Space",
-            "IPO"
+            "IPO Table Space"
         ],
         "valuations": [
-            "$2.5 billion",
             "$2.5B"
         ],
         "sentiment": "neutral"
@@ -320,15 +303,14 @@
         "excerpt": "Ola founder Bhavish Aggarwal is investing $230 million into an AI startup he founded as the country pushes to establish itself in a field dominated by",
         "section": "indians",
         "founders": [
-            "Manish Singh",
-            "Bhavish Aggarwal"
+            "Bhavish Aggarwal",
+            "Manish Singh"
         ],
         "startups": [
             "B",
             "Krutrim Ola"
         ],
         "valuations": [
-            "$230 million",
             "$230M"
         ],
         "sentiment": "neutral"
@@ -358,8 +340,8 @@
             "Groww"
         ],
         "valuations": [
-            "$159.4 million",
-            "$160M"
+            "$160M",
+            "$159.4 million"
         ],
         "sentiment": "neutral"
     },
@@ -374,8 +356,6 @@
             "Microsoft"
         ],
         "valuations": [
-            "$3 M",
-            "$3 billion",
             "$3B"
         ],
         "sentiment": "positive"
@@ -388,13 +368,12 @@
             "Manish Singh"
         ],
         "startups": [
-            "Swiggy IPO",
-            "Swiggy"
+            "Swiggy IPO"
         ],
         "valuations": [
+            "$606 million",
             "$1.35 billion",
-            "$600 million",
-            "$606 million"
+            "$600 million"
         ],
         "sentiment": "neutral"
     },
@@ -406,12 +385,10 @@
             "Manish Singh"
         ],
         "startups": [
-            "Byju\u2019",
-            "Byju",
-            "BlackRock"
+            "BlackRock",
+            "Byju'"
         ],
         "valuations": [
-            "$22 billion",
             "$22B"
         ],
         "sentiment": "negative"
@@ -448,8 +425,6 @@
             "Ivan Mehta"
         ],
         "startups": [
-            "Swiggy",
-            "Minis",
             "Swiggy Minis"
         ],
         "valuations": [],
@@ -460,14 +435,14 @@
         "excerpt": "Equity is diving into the week's weird and cool startup news, including TuSimple's not-so-simple pivot, Luminate's hair loss prevention helmet, and more money for quick commerce.",
         "section": "startups",
         "founders": [
-            "TuSimple",
             "Kirsten Korosec",
-            "Devin Coldewey",
-            "Rebecca Bella"
+            "TuSimple",
+            "Rebecca Bella",
+            "Devin Coldewey"
         ],
         "startups": [
-            "Equity",
-            "Luminate"
+            "Luminate",
+            "Equity"
         ],
         "valuations": [],
         "sentiment": "positive"
@@ -488,12 +463,12 @@
         "excerpt": "Asya Bradley, a former fintech founder and investor, has joined payments giant Stripe as its new Startup & Venture Capital Partnerships lead. Bradley",
         "section": "startups",
         "founders": [
-            "Asya Bradley",
-            "Bradley Mary Ann Azeved"
+            "Bradley Mary Ann Azeved",
+            "Asya Bradley"
         ],
         "startups": [
-            "Startup & Venture Capital Partnerships",
-            "Stripe"
+            "Stripe",
+            "Startup Venture Capital Partnerships"
         ],
         "valuations": [],
         "sentiment": "neutral"
@@ -518,9 +493,9 @@
         "section": "startups",
         "founders": [],
         "startups": [
+            "Battle",
             "TechC",
             "LatA",
-            "Battle",
             "Events"
         ],
         "valuations": [],
@@ -535,8 +510,8 @@
         ],
         "startups": [
             "TechCrunch Fintech",
-            "Klarna",
-            "Stripe"
+            "Stripe",
+            "Klarna"
         ],
         "valuations": [],
         "sentiment": "neutral"
@@ -549,7 +524,7 @@
             "Charles Roll"
         ],
         "startups": [
-            "Y Combinator",
+            "Combinator",
             "YC"
         ],
         "valuations": [],
@@ -562,12 +537,11 @@
         "founders": [],
         "startups": [
             "HP",
-            "AI Pin",
-            "Humane",
-            "Maxwell Zef"
+            "Maxwell Zef",
+            "Pin",
+            "Humane"
         ],
         "valuations": [
-            "$116 million",
             "$116M"
         ],
         "sentiment": "neutral"
@@ -577,9 +551,9 @@
         "excerpt": "",
         "section": "startups",
         "founders": [
+            "Andreessen Horow",
             "Yashad Kulkarni",
-            "Martin Casado",
-            "Andreessen Horow"
+            "Martin Casado"
         ],
         "startups": [],
         "valuations": [],
@@ -617,10 +591,10 @@
             "Romain Dille"
         ],
         "startups": [
-            "Swan",
-            "Hexa",
             "Aircall",
-            "B"
+            "Swan",
+            "B",
+            "Hexa"
         ],
         "valuations": [],
         "sentiment": "positive"
@@ -631,8 +605,8 @@
         "section": "startups",
         "founders": [],
         "startups": [
-            "Startups Weekly",
-            "je Jan Ka"
+            "Jan",
+            "Startups Weekly"
         ],
         "valuations": [],
         "sentiment": "positive"
@@ -646,8 +620,8 @@
             "Madori Davis"
         ],
         "startups": [
-            "Femtech",
             "LOOM",
+            "Femtech",
             "Perelel"
         ],
         "valuations": [],
@@ -658,16 +632,16 @@
         "excerpt": "Today on Equity, we dig into Multiverse's acquisition of Searchlight, Guesty's massive Series F, Monad Labs, and Cyera's megaround.",
         "section": "startups",
         "founders": [
-            "Alex Wilhelm",
-            "Theresa Locon"
+            "Theresa Locon",
+            "Alex Wilhelm"
         ],
         "startups": [
             "Guesty",
-            "Searchlight",
-            "Multiverse",
             "Cyera",
+            "Searchlight",
+            "Today Equity",
             "Monad Labs",
-            "Today on Equity"
+            "Multiverse"
         ],
         "valuations": [
             "$60M"
@@ -680,9 +654,8 @@
         "section": "startups",
         "founders": [],
         "startups": [
-            "C Di",
-            "rup",
-            "TechCrunch"
+            "TechCrunch",
+            "rup"
         ],
         "valuations": [
             "$35 million"
@@ -705,18 +678,15 @@
         "excerpt": "Nebius is the new name for Yandex N.V., the holding company for Russian tech giant Yandex. And Arkady Volozh couldn't be more excited.",
         "section": "startups",
         "founders": [
-            "Ark",
             "Paul Saw",
+            "Ark",
             "Vol"
         ],
         "startups": [
             "Yandex N.V",
-            "N",
-            "ady",
-            "ius",
-            "Nebius",
             "ozh",
-            "Yandex"
+            "Nebius",
+            "ady"
         ],
         "valuations": [],
         "sentiment": "positive"
@@ -740,7 +710,7 @@
             "Manish Singh"
         ],
         "startups": [
-            "Fund of Funds"
+            "Fund Funds"
         ],
         "valuations": [
             "$1.15 billion"
@@ -764,8 +734,8 @@
         "excerpt": "True Anomaly's first mission didn't go as planned by any stretch of the imagination, but the space and defense startup's CEO, Even Rogers, said he doesn't",
         "section": "startups",
         "founders": [
-            "Even Rogers",
-            "Aria Alamalhodae"
+            "Aria Alamalhodae",
+            "Even Rogers"
         ],
         "startups": [
             "True Anomaly"
@@ -778,18 +748,18 @@
         "excerpt": "These startups have fascinating new technologies, business models, founder stories or are pushing an industry forward in exciting ways.",
         "section": "startups",
         "founders": [
-            "Rebecca Bellan",
             "Dominic",
-            "Aria Alamalhodaei",
-            "Marina Temkin",
-            "Ingrid Lunden",
-            "Julie Bort",
-            "Kyle Wiggers",
             "Madori Davis",
-            "Tim De Chant",
-            "Margaux MacColl",
+            "Aria Alamalhodaei",
+            "Rebecca Szkutak",
+            "Kyle Wiggers",
+            "Julie Bort",
+            "Tim Chant",
             "Manish Singh",
-            "Rebecca Szkutak"
+            "Ingrid Lunden",
+            "Margaux MacColl",
+            "Rebecca Bellan",
+            "Marina Temkin"
         ],
         "startups": [],
         "valuations": [],
@@ -800,7 +770,7 @@
         "excerpt": "Welcome to Startups Weekly \u2014 your weekly recap of everything you can\u2019t miss from the world of startups. Want it in your inbox every Friday? Sign up here.",
         "section": "startups",
         "founders": [
-            "Anna He"
+            "Anna"
         ],
         "startups": [
             "Startups Weekly"
@@ -859,9 +829,9 @@
         "excerpt": "Digital banking startup Mercury informed some founders that it is no longer serving customers in certain countries, including Ukraine.",
         "section": "startups",
         "founders": [
+            "Mary Ann Azevedo",
             "Christine Hall",
             "Okaf",
-            "Mary Ann Azevedo",
             "Tage Kene"
         ],
         "startups": [
@@ -875,8 +845,7 @@
         "excerpt": "Welcome to Startups Weekly \u2014 your weekly recap of everything you can\u2019t miss from the world of startups.\u00a0I\u2019m Anna Heim from TechCrunch\u2019s international",
         "section": "startups",
         "founders": [
-            "Anna Heim",
-            "Anna He"
+            "Anna Heim"
         ],
         "startups": [
             "Startups Weekly",
@@ -901,11 +870,10 @@
         "excerpt": "The focus of the new $100 million fund, Crosscut\u2019s sixth, will include energy and power, space and underwater exploration, advanced manufacturing, advanced materials, and security and defense.",
         "section": "founders",
         "founders": [
-            "Tim De Chan"
+            "Tim Chan"
         ],
         "startups": [
-            "Crosscut Ventures",
-            "Crosscut"
+            "Crosscut Ventures"
         ],
         "valuations": [
             "$100 million"
@@ -920,8 +888,8 @@
             "Cody Corrall"
         ],
         "startups": [
-            "Fisker",
-            "TechCrunch"
+            "TechCrunch",
+            "Fisker"
         ],
         "valuations": [],
         "sentiment": "positive"
@@ -960,8 +928,8 @@
         "excerpt": "Entrepreneur Marc Lore has already sold two companies for billions of dollars, collectively. Now he plans to take his food delivery and take-out business",
         "section": "founders",
         "founders": [
-            "Marc Lore",
-            "Loiz"
+            "Loiz",
+            "Marc Lore"
         ],
         "startups": [
             "os",
@@ -975,16 +943,16 @@
         "excerpt": "Today on Equity, we're diving into deals from Piramidal and Comun, Fluid Truck's 'hostile takover' and Telegram CEO Pavel Durov's arrest.",
         "section": "founders",
         "founders": [
-            "Devin Coldewey",
             "Mary Ann Azevedo",
+            "Pavel Durov",
             "Rebecca Bella",
-            "Pavel Durov"
+            "Devin Coldewey"
         ],
         "startups": [
-            "Telegram",
-            "Piramidal and Comun",
             "Fluid Truck",
-            "on Equity"
+            "Piramidal and Comun",
+            "Equity",
+            "Telegram"
         ],
         "valuations": [],
         "sentiment": "neutral"
@@ -994,8 +962,8 @@
         "excerpt": "Krutrim, an AI startup founded by Ola founder Bhavish Aggarwal, said it has raised a funding round that values it at $1 billion. The startup, founded last AI firm Krutrim is Indian entrepreneur Bhavish Aggarwal's third unicorn startup.",
         "section": "founders",
         "founders": [
-            "Manish Singh",
-            "Bhavish Aggarwal"
+            "Bhavish Aggarwal",
+            "Manish Singh"
         ],
         "startups": [
             "Krutrim",
@@ -1014,8 +982,8 @@
             "Mike Butcher"
         ],
         "startups": [
-            "s",
-            "\u201cUn"
+            "\u201cUn",
+            "s"
         ],
         "valuations": [],
         "sentiment": "neutral"
@@ -1028,8 +996,8 @@
             "Marina Tem"
         ],
         "startups": [
-            "AI",
-            "Startups Weekly"
+            "Startups Weekly",
+            "AI"
         ],
         "valuations": [],
         "sentiment": "positive"
@@ -1044,9 +1012,8 @@
         ],
         "startups": [
             "Equity",
-            "Startup Banking",
-            "JP Morgan",
-            "J.P. Morgan"
+            "J.P. Morgan",
+            "Startup Banking"
         ],
         "valuations": [],
         "sentiment": "negative"
@@ -1056,10 +1023,10 @@
         "excerpt": "The Equity podcast is looking back on the biggest stories in tech in 2024, from AI advancements to venture funding trends and disruptive startups.",
         "section": "founders",
         "founders": [
-            "Theresa Loconsolo",
+            "Anthony",
             "Devin Coldewey",
-            "Anthony Ha",
             "Margaux MacColl",
+            "Theresa Loconsolo",
             "Kirsten Korosec"
         ],
         "startups": [
@@ -1089,8 +1056,8 @@
             "Sean O'Kane"
         ],
         "startups": [
-            "Fisker",
-            "TechCrunch"
+            "TechCrunch",
+            "Fisker"
         ],
         "valuations": [],
         "sentiment": "neutral"
@@ -1100,12 +1067,12 @@
         "excerpt": "Welcome to Startups Weekly. Sign up here to get it in your inbox every Friday. A few months ago, Alexis Ohanian, the co-founder of Reddit, tweeted that if",
         "section": "founders",
         "founders": [
-            "Haje Jan Ka",
-            "Alexis Ohanian"
+            "Alexis Ohanian",
+            "Haje Jan"
         ],
         "startups": [
-            "Reddit",
-            "Startups Weekly"
+            "Startups Weekly",
+            "Reddit"
         ],
         "valuations": [],
         "sentiment": "positive"
@@ -1115,9 +1082,8 @@
         "excerpt": "When TechCrunch's former editor-in-chief Matthew Panzarino joined a startup, we knew it was one that would pique our interest. Panzarino, well-known among",
         "section": "founders",
         "founders": [
-            "Panzarino",
-            "Sarah Perez",
-            "Matthew Panzarino"
+            "Matthew Panzarino",
+            "Sarah Perez"
         ],
         "startups": [
             "TipTop",
@@ -1131,8 +1097,8 @@
         "excerpt": "Pavel Durov, founder and CEO of messaging app Telegram, was arrested on Saturday evening while leaving his private jet at France\u2019s Le Bourget Airport, as",
         "section": "founders",
         "founders": [
-            "Anthony Ha",
-            "Pavel Durov"
+            "Pavel Durov",
+            "Anthony"
         ],
         "startups": [
             "Telegram"
@@ -1158,7 +1124,7 @@
         "excerpt": "Ed Zitron joins Equity to discuss the decline of traditional online services, shifting from \u2018founder mode\u2019 to \u2018customer mode,\u2019 and the future of generative AI companies like OpenAI.",
         "section": "founders",
         "founders": [
-            "Ed Zitron",
+            "Zitron",
             "Theresa Loconsolo",
             "Rebecca Bella"
         ],
@@ -1174,17 +1140,17 @@
         "excerpt": "Equity's discussing the latest from inauguration week, including how the new administration is engaging with startups, TikTok\u2019s comeback, a $100B project from OpenAI and others, the Divvy Homes acquisition fallout, and the IPO market for 2025.",
         "section": "founders",
         "founders": [
-            "Anthony Ha",
             "Margaux MacC",
-            "Kirsten Korosec",
-            "Theresa Loconsolo"
+            "Theresa Loconsolo",
+            "Anthony",
+            "Kirsten Korosec"
         ],
         "startups": [
-            "TikTok",
-            "oll",
             "IP",
-            "OpenAI",
+            "oll",
             "Equity",
+            "OpenAI",
+            "TikTok",
             "Divvy Homes"
         ],
         "valuations": [
@@ -1210,7 +1176,7 @@
         "excerpt": "Not every investor will be impressed by a founder\u2019s massive prospective TAM, short for total addressable market.",
         "section": "founders",
         "founders": [
-            "Tim De Chan"
+            "Tim Chan"
         ],
         "startups": [],
         "valuations": [],
@@ -1236,9 +1202,9 @@
             "Dominic"
         ],
         "startups": [
-            "Female Founders Fund",
             "FFF",
-            "Davis"
+            "Davis",
+            "Female Founders Fund"
         ],
         "valuations": [
             "$5.85 million"
@@ -1250,12 +1216,12 @@
         "excerpt": "Today on Equity, we're diving deep into how Newchip's bankruptcy threatened the cap tables of thousands of startups.",
         "section": "founders",
         "founders": [
-            "Christine Hall",
             "Mary Ann Azevedo",
-            "Haje Jan Kamps"
+            "Haje Jan Kamps",
+            "Christine Hall"
         ],
         "startups": [
-            "Today on Equity",
+            "Today Equity",
             "Newchip"
         ],
         "valuations": [],
@@ -1289,12 +1255,10 @@
         "section": "founders",
         "founders": [
             "Rocky Duan",
-            "Peter Chen",
-            "Pieter Abbeel"
+            "Pieter Abbeel",
+            "Peter Chen"
         ],
         "startups": [
-            "Covariant",
-            "Amazon",
             "Covariant Amazon"
         ],
         "valuations": [],
