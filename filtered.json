@@ -7,7 +7,8 @@
             "Jagmeet Singh"
         ],
         "startups": [],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "negative"
     },
     {
         "title": "Indian online ID verification firm Signzy confirms security incident",
@@ -20,7 +21,8 @@
         "startups": [
             "Signzy"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "EV startup Ather seeks to raise $530 million in India IPO",
@@ -35,7 +37,8 @@
         ],
         "valuations": [
             "$530 million"
-        ]
+        ],
+        "sentiment": "neutral"
     },
     {
         "title": "Google strikes world\u2019s largest biochar carbon removal deal with Indian startup Varaha",
@@ -46,10 +49,11 @@
         ],
         "startups": [
             "Varaha Google",
-            "Varaha",
-            "Google"
+            "Google",
+            "Varaha"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "positive"
     },
     {
         "title": "Accel doubles down on Sarla Aviation\u2019s ambition to develop electric air taxis in India",
@@ -62,7 +66,8 @@
             "Sarla Aviation",
             "Accel"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "positive"
     },
     {
         "title": "Lucidity snags $21M to help enterprises optimize their cloud storage",
@@ -73,13 +78,14 @@
         ],
         "startups": [
             "Lucidity",
-            "ity",
-            "Luc"
+            "Luc",
+            "ity"
         ],
         "valuations": [
             "$21 million",
             "$21M"
-        ]
+        ],
+        "sentiment": "positive"
     },
     {
         "title": "Vanguard cuts Indian rideshare startup Ola\u2019s valuation to $2B",
@@ -89,13 +95,14 @@
             "Manish Singh"
         ],
         "startups": [
-            "Ola",
-            "Vanguard"
+            "Vanguard",
+            "Ola"
         ],
         "valuations": [
             "$2 billion",
             "$2B"
-        ]
+        ],
+        "sentiment": "neutral"
     },
     {
         "title": "CoinSwitch sues WazirX to recover trapped funds",
@@ -108,7 +115,8 @@
             "CoinSwitch",
             "WazirX"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "Zepto shifts HQ to India as local listings gain appeal",
@@ -120,7 +128,8 @@
         "startups": [
             "Zepto"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "Ati Motors raises $20M as India\u2019s robotics industry grows",
@@ -135,7 +144,8 @@
         "valuations": [
             "$20 million",
             "$20M"
-        ]
+        ],
+        "sentiment": "positive"
     },
     {
         "title": "India\u2019s Zyod raises $18M to expand its tech-enabled fashion manufacturing to more countries",
@@ -151,7 +161,8 @@
         "valuations": [
             "$18 million",
             "$18M"
-        ]
+        ],
+        "sentiment": "neutral"
     },
     {
         "title": "India\u2019s Physics Wallah raises $210M at $2.8B valuation even as edtech funding remains scarce",
@@ -167,7 +178,8 @@
             "$2.8B",
             "$210 million",
             "$210M"
-        ]
+        ],
+        "sentiment": "positive"
     },
     {
         "title": "Byju\u2019s, once valued at $22 billion, faces insolvency proceedings",
@@ -182,7 +194,8 @@
         ],
         "valuations": [
             "$22 billion"
-        ]
+        ],
+        "sentiment": "neutral"
     },
     {
         "title": "Google-backed Pixxel launches India\u2019s first private satellite constellation",
@@ -192,26 +205,28 @@
             "Jagmeet Singh"
         ],
         "startups": [
-            "Pixxel",
             "Google",
+            "Pixxel",
             "Firefly"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "positive"
     },
     {
         "title": "Shein must cede Indians\u2019 data, control of local ops to re-enter India",
         "excerpt": "Shein must surrender all data of Indian customers and control of its local operations to its partner, Reliance Retail, and keep operations fully local to Shein must surrender all data and ownership control to its Indian partner Reliance Retail to return to India.",
         "section": "indians",
         "founders": [
-            "She",
-            "Manish Singh"
+            "Manish Singh",
+            "She"
         ],
         "startups": [
-            "Shein",
+            "Reliance Retail",
             "in",
-            "Reliance Retail"
+            "Shein"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "Nvidia signs a slew of AI-related deals in India",
@@ -223,7 +238,8 @@
         "startups": [
             "Nvidia"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "positive"
     },
     {
         "title": "India\u2019s EtherealX puts $5M seed toward fully reusable launch vehicles",
@@ -237,7 +253,8 @@
         ],
         "valuations": [
             "$5M"
-        ]
+        ],
+        "sentiment": "positive"
     },
     {
         "title": "Indian edtech Unacademy cuts another 250 jobs",
@@ -249,7 +266,8 @@
         "startups": [
             "Unacademy"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "negative"
     },
     {
         "title": "India\u2019s Rapido becomes a unicorn with fresh $120M funding",
@@ -265,7 +283,8 @@
         ],
         "valuations": [
             "$120M"
-        ]
+        ],
+        "sentiment": "positive"
     },
     {
         "title": "India clings to cheap feature phones as brands struggle to tap new smartphone buyers",
@@ -275,7 +294,8 @@
             "Jagmeet Singh"
         ],
         "startups": [],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "negative"
     },
     {
         "title": "Table Space eyes $2.5B valuation in India IPO",
@@ -292,15 +312,16 @@
         "valuations": [
             "$2.5 billion",
             "$2.5B"
-        ]
+        ],
+        "sentiment": "neutral"
     },
     {
         "title": "SoftBank-backed billionaire to invest $230M in Indian AI startup Krutrim",
         "excerpt": "Ola founder Bhavish Aggarwal is investing $230 million into an AI startup he founded as the country pushes to establish itself in a field dominated by",
         "section": "indians",
         "founders": [
-            "Bhavish Aggarwal",
-            "Manish Singh"
+            "Manish Singh",
+            "Bhavish Aggarwal"
         ],
         "startups": [
             "B",
@@ -309,7 +330,8 @@
         "valuations": [
             "$230 million",
             "$230M"
-        ]
+        ],
+        "sentiment": "neutral"
     },
     {
         "title": "Prosus zeroes out its 9.6% stake in Byju\u2019s",
@@ -322,7 +344,8 @@
             "Prosus",
             "Byju"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "Groww pays $160M tax as it returns to India amid a startup relocation wave",
@@ -337,7 +360,8 @@
         "valuations": [
             "$159.4 million",
             "$160M"
-        ]
+        ],
+        "sentiment": "neutral"
     },
     {
         "title": "Microsoft backs its $3B AI push in India with public and private sector deals",
@@ -353,7 +377,8 @@
             "$3 M",
             "$3 billion",
             "$3B"
-        ]
+        ],
+        "sentiment": "positive"
     },
     {
         "title": "Swiggy IPO nets $606 million from institutional investors",
@@ -370,7 +395,8 @@
             "$1.35 billion",
             "$600 million",
             "$606 million"
-        ]
+        ],
+        "sentiment": "neutral"
     },
     {
         "title": "BlackRock has slashed the value of stake in Byju\u2019s, once worth $22B, to zero",
@@ -380,14 +406,15 @@
             "Manish Singh"
         ],
         "startups": [
-            "Byju",
             "Byju\u2019",
+            "Byju",
             "BlackRock"
         ],
         "valuations": [
             "$22 billion",
             "$22B"
-        ]
+        ],
+        "sentiment": "negative"
     },
     {
         "title": "Tiger Global-backed InVideo launches GenAI-based video creation",
@@ -399,7 +426,8 @@
         "startups": [
             "InVideo"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "Hacker claims data breach of India\u2019s eMigrate labor portal",
@@ -409,7 +437,8 @@
             "Jagmeet Singh"
         ],
         "startups": [],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "Swiggy turns Minis into a link-in-bio platform",
@@ -423,23 +452,25 @@
             "Minis",
             "Swiggy Minis"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "\u2018Super weird\u2019 is the best way to describe this startup\u2019s pivot",
         "excerpt": "Equity is diving into the week's weird and cool startup news, including TuSimple's not-so-simple pivot, Luminate's hair loss prevention helmet, and more money for quick commerce.",
         "section": "startups",
         "founders": [
-            "Rebecca Bella",
             "TuSimple",
+            "Kirsten Korosec",
             "Devin Coldewey",
-            "Kirsten Korosec"
+            "Rebecca Bella"
         ],
         "startups": [
             "Equity",
             "Luminate"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "positive"
     },
     {
         "title": "Could this startup\u2019s compact nuclear reactors revolutionize cancer detection?",
@@ -449,21 +480,23 @@
             "Mike Butcher"
         ],
         "startups": [],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "negative"
     },
     {
         "title": "Stripe brings aboard new lead for \u2018startup and VC partnerships\u2019",
         "excerpt": "Asya Bradley, a former fintech founder and investor, has joined payments giant Stripe as its new Startup & Venture Capital Partnerships lead. Bradley",
         "section": "startups",
         "founders": [
-            "Bradley Mary Ann Azeved",
-            "Asya Bradley"
+            "Asya Bradley",
+            "Bradley Mary Ann Azeved"
         ],
         "startups": [
             "Startup & Venture Capital Partnerships",
             "Stripe"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "The curious case of Nebius, the publicly traded AI infrastructure \u2018startup\u2019",
@@ -473,10 +506,11 @@
             "Paul Saw"
         ],
         "startups": [
-            "ius",
-            "N"
+            "N",
+            "ius"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "LatAm startups: Apply to Startup Battlefield 200",
@@ -484,12 +518,13 @@
         "section": "startups",
         "founders": [],
         "startups": [
-            "Battle",
-            "Events",
             "TechC",
-            "LatA"
+            "LatA",
+            "Battle",
+            "Events"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "positive"
     },
     {
         "title": "When startups fail, these startups clean up",
@@ -503,7 +538,8 @@
             "Klarna",
             "Stripe"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "Y Combinator deletes posts after a startup\u2019s demo goes viral",
@@ -516,7 +552,8 @@
             "Y Combinator",
             "YC"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "Humane\u2019s AI Pin is dead, as HP buys startup\u2019s assets for $116M",
@@ -524,27 +561,29 @@
         "section": "startups",
         "founders": [],
         "startups": [
-            "Humane",
-            "Maxwell Zef",
+            "HP",
             "AI Pin",
-            "HP"
+            "Humane",
+            "Maxwell Zef"
         ],
         "valuations": [
             "$116 million",
             "$116M"
-        ]
+        ],
+        "sentiment": "neutral"
     },
     {
         "title": "Why AI regulation is every startup\u2019s business, with Andreessen Horowitz Martin Casado",
         "excerpt": "",
         "section": "startups",
         "founders": [
+            "Yashad Kulkarni",
             "Martin Casado",
-            "Andreessen Horow",
-            "Yashad Kulkarni"
+            "Andreessen Horow"
         ],
         "startups": [],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "The startup battle begins now: TechCrunch Startup Battlefield 200 applications are open",
@@ -552,10 +591,11 @@
         "section": "startups",
         "founders": [],
         "startups": [
-            "TechCrunch Startup Battle",
-            "TechCrunch Events"
+            "TechCrunch Events",
+            "TechCrunch Startup Battle"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "The fall of EV startup Fisker",
@@ -563,10 +603,11 @@
         "section": "startups",
         "founders": [],
         "startups": [
-            "Fisker",
-            "N"
+            "N",
+            "Fisker"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "Hexa, the startup studio behind Aircall and Swan, unveils its next batch of startups",
@@ -576,12 +617,13 @@
             "Romain Dille"
         ],
         "startups": [
-            "B",
-            "Aircall",
+            "Swan",
             "Hexa",
-            "Swan"
+            "Aircall",
+            "B"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "positive"
     },
     {
         "title": "Startups Yearly: The biggest startup stories from 2023",
@@ -589,10 +631,11 @@
         "section": "startups",
         "founders": [],
         "startups": [
-            "je Jan Ka",
-            "Startups Weekly"
+            "Startups Weekly",
+            "je Jan Ka"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "positive"
     },
     {
         "title": "Femtech startup Perelel is acquiring Founders Fund-backed sexual health startup LOOM",
@@ -603,31 +646,33 @@
             "Madori Davis"
         ],
         "startups": [
-            "LOOM",
             "Femtech",
+            "LOOM",
             "Perelel"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "A $60M venture fund with a twist, and more startup-on-startup acquisitions",
         "excerpt": "Today on Equity, we dig into Multiverse's acquisition of Searchlight, Guesty's massive Series F, Monad Labs, and Cyera's megaround.",
         "section": "startups",
         "founders": [
-            "Theresa Locon",
-            "Alex Wilhelm"
+            "Alex Wilhelm",
+            "Theresa Locon"
         ],
         "startups": [
-            "Multiverse",
             "Guesty",
-            "Today on Equity",
-            "Monad Labs",
             "Searchlight",
-            "Cyera"
+            "Multiverse",
+            "Cyera",
+            "Monad Labs",
+            "Today on Equity"
         ],
         "valuations": [
             "$60M"
-        ]
+        ],
+        "sentiment": "neutral"
     },
     {
         "title": "Boost your startup\u2019s growth with a ScaleUp package at TC Disrupt 2024",
@@ -635,13 +680,14 @@
         "section": "startups",
         "founders": [],
         "startups": [
-            "rup",
             "C Di",
+            "rup",
             "TechCrunch"
         ],
         "valuations": [
             "$35 million"
-        ]
+        ],
+        "sentiment": "positive"
     },
     {
         "title": "A startup\u2019s guide to cyberthreats \u2014 threat modeling and proactive security",
@@ -651,7 +697,8 @@
             "Cherly"
         ],
         "startups": [],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "negative"
     },
     {
         "title": "From Yandex\u2019s ashes comes Nebius, a \u2018startup\u2019 with plans to be a European AI compute leader",
@@ -664,14 +711,15 @@
         ],
         "startups": [
             "Yandex N.V",
-            "ius",
-            "ozh",
             "N",
             "ady",
-            "Yandex",
-            "Nebius"
+            "ius",
+            "Nebius",
+            "ozh",
+            "Yandex"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "positive"
     },
     {
         "title": "Why VCs are investing in startups that help other startups shut down",
@@ -681,7 +729,8 @@
             "Mary Ann Azeved"
         ],
         "startups": [],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "India pledges fresh billion for startups",
@@ -695,7 +744,8 @@
         ],
         "valuations": [
             "$1.15 billion"
-        ]
+        ],
+        "sentiment": "positive"
     },
     {
         "title": "Introducing the ScaleUp Startups Program at Disrupt 2024 for Series A to B startups",
@@ -706,41 +756,44 @@
             "TechC",
             "Di"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "positive"
     },
     {
         "title": "True Anomaly CEO finds the silver lining in the startup\u2019s anomalous first mission",
         "excerpt": "True Anomaly's first mission didn't go as planned by any stretch of the imagination, but the space and defense startup's CEO, Even Rogers, said he doesn't",
         "section": "startups",
         "founders": [
-            "Aria Alamalhodae",
-            "Even Rogers"
+            "Even Rogers",
+            "Aria Alamalhodae"
         ],
         "startups": [
             "True Anomaly"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "negative"
     },
     {
         "title": "The 51 most disruptive startups of 2024",
         "excerpt": "These startups have fascinating new technologies, business models, founder stories or are pushing an industry forward in exciting ways.",
         "section": "startups",
         "founders": [
-            "Madori Davis",
-            "Rebecca Szkutak",
-            "Tim De Chant",
+            "Rebecca Bellan",
             "Dominic",
             "Aria Alamalhodaei",
-            "Ingrid Lunden",
-            "Kyle Wiggers",
-            "Julie Bort",
-            "Rebecca Bellan",
-            "Margaux MacColl",
             "Marina Temkin",
-            "Manish Singh"
+            "Ingrid Lunden",
+            "Julie Bort",
+            "Kyle Wiggers",
+            "Madori Davis",
+            "Tim De Chant",
+            "Margaux MacColl",
+            "Manish Singh",
+            "Rebecca Szkutak"
         ],
         "startups": [],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "positive"
     },
     {
         "title": "Hopeful hearts and other startup news",
@@ -752,7 +805,8 @@
         "startups": [
             "Startups Weekly"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "positive"
     },
     {
         "title": "Startup Battlefield 200 Runnerup Announcement",
@@ -764,7 +818,8 @@
         "startups": [
             "Startup Battlefield"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "Announcing the winner of Startup Battlefield 200",
@@ -774,7 +829,8 @@
             "Yashad Kulkar"
         ],
         "startups": [],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "AI startups\u2019 margin profile could ding their long-term worth",
@@ -784,7 +840,8 @@
             "Alex Wilhelm"
         ],
         "startups": [],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "negative"
     },
     {
         "title": "Key Compliance Areas for Startup CEOs",
@@ -794,36 +851,39 @@
         "startups": [
             "Startup"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "Digital banking startup Mercury abruptly shuttered service for startups in Ukraine, Nigeria, other countries",
         "excerpt": "Digital banking startup Mercury informed some founders that it is no longer serving customers in certain countries, including Ukraine.",
         "section": "startups",
         "founders": [
-            "Okaf",
             "Christine Hall",
-            "Tage Kene",
-            "Mary Ann Azevedo"
+            "Okaf",
+            "Mary Ann Azevedo",
+            "Tage Kene"
         ],
         "startups": [
             "Mercury"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "negative"
     },
     {
         "title": "Another week in the circle of startup life",
         "excerpt": "Welcome to Startups Weekly \u2014 your weekly recap of everything you can\u2019t miss from the world of startups.\u00a0I\u2019m Anna Heim from TechCrunch\u2019s international",
         "section": "startups",
         "founders": [
-            "Anna He",
-            "Anna Heim"
+            "Anna Heim",
+            "Anna He"
         ],
         "startups": [
-            "TechCrunch",
-            "Startups Weekly"
+            "Startups Weekly",
+            "TechCrunch"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "positive"
     },
     {
         "title": "Those \u2018Founder mode\u2019 memes keep coming",
@@ -833,7 +893,8 @@
             "Matt Roso"
         ],
         "startups": [],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "Why Crosscut Ventures is \u2018following the founders\u2019 into climate, space, and beyond",
@@ -848,7 +909,8 @@
         ],
         "valuations": [
             "$100 million"
-        ]
+        ],
+        "sentiment": "neutral"
     },
     {
         "title": "Fisker collapsed under the weight of its founder\u2019s promises",
@@ -861,7 +923,8 @@
             "Fisker",
             "TechCrunch"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "positive"
     },
     {
         "title": "HR software startup OnPay was inspired by the founder\u2019s family payroll business",
@@ -875,60 +938,64 @@
         ],
         "valuations": [
             "$100 million"
-        ]
+        ],
+        "sentiment": "neutral"
     },
     {
         "title": "Telegram quietly updates website to allow abuse reports following founder\u2019s arrest",
         "excerpt": "Telegram has updated its website to explicitly allow users to report private chats to its moderators, the company said in its FAQ page, as it updated some Telegram has quietly updated its policy to allow users to report private chats to its moderators following the arrest of Pavel Durov.",
         "section": "founders",
         "founders": [
-            "Pavel Durov",
-            "Manish Singh"
+            "Manish Singh",
+            "Pavel Durov"
         ],
         "startups": [
             "Telegram"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "Entrepreneur Marc Lore on \u2018founder mode,\u2019 bad hires, and why avoiding risk is deadly",
         "excerpt": "Entrepreneur Marc Lore has already sold two companies for billions of dollars, collectively. Now he plans to take his food delivery and take-out business",
         "section": "founders",
         "founders": [
-            "Loiz",
-            "Marc Lore"
+            "Marc Lore",
+            "Loiz"
         ],
         "startups": [
             "os",
             "Connie"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "Telegram founder\u2019s arrest, and who\u2019s using acqui-hires to tip-toe around antitrust",
         "excerpt": "Today on Equity, we're diving into deals from Piramidal and Comun, Fluid Truck's 'hostile takover' and Telegram CEO Pavel Durov's arrest.",
         "section": "founders",
         "founders": [
-            "Pavel Durov",
             "Devin Coldewey",
+            "Mary Ann Azevedo",
             "Rebecca Bella",
-            "Mary Ann Azevedo"
+            "Pavel Durov"
         ],
         "startups": [
-            "on Equity",
-            "Piramidal and Comun",
             "Telegram",
-            "Fluid Truck"
+            "Piramidal and Comun",
+            "Fluid Truck",
+            "on Equity"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "Ola founder\u2019s Krutrim becomes India\u2019s first AI unicorn",
         "excerpt": "Krutrim, an AI startup founded by Ola founder Bhavish Aggarwal, said it has raised a funding round that values it at $1 billion. The startup, founded last AI firm Krutrim is Indian entrepreneur Bhavish Aggarwal's third unicorn startup.",
         "section": "founders",
         "founders": [
-            "Bhavish Aggarwal",
-            "Manish Singh"
+            "Manish Singh",
+            "Bhavish Aggarwal"
         ],
         "startups": [
             "Krutrim",
@@ -936,7 +1003,8 @@
         ],
         "valuations": [
             "$1 billion"
-        ]
+        ],
+        "sentiment": "neutral"
     },
     {
         "title": "New study of unicorn founders finds most are \u2018underdogs,\u2019 and female founders are rising",
@@ -946,10 +1014,11 @@
             "Mike Butcher"
         ],
         "startups": [
-            "\u201cUn",
-            "s"
+            "s",
+            "\u201cUn"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "AI founders play musical chairs",
@@ -959,10 +1028,11 @@
             "Marina Tem"
         ],
         "startups": [
-            "Startups Weekly",
-            "AI"
+            "AI",
+            "Startups Weekly"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "positive"
     },
     {
         "title": "JP Morgan\u2019s head of startup banking says \u2018Founder Mode\u2019 won\u2019t get you a unicorn",
@@ -973,28 +1043,30 @@
             "Ashraf Hebela"
         ],
         "startups": [
-            "JP Morgan",
-            "J.P. Morgan",
             "Equity",
-            "Startup Banking"
+            "Startup Banking",
+            "JP Morgan",
+            "J.P. Morgan"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "negative"
     },
     {
         "title": "2024: Founder mode, AI, and the \u2018Rise of the Broligarchs\u2019",
         "excerpt": "The Equity podcast is looking back on the biggest stories in tech in 2024, from AI advancements to venture funding trends and disruptive startups.",
         "section": "founders",
         "founders": [
+            "Theresa Loconsolo",
+            "Devin Coldewey",
             "Anthony Ha",
             "Margaux MacColl",
-            "Kirsten Korosec",
-            "Theresa Loconsolo",
-            "Devin Coldewey"
+            "Kirsten Korosec"
         ],
         "startups": [
             "Equity"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "positive"
     },
     {
         "title": "Former Bonobos founder is rethinking social media",
@@ -1006,7 +1078,8 @@
         "startups": [
             "Bonobos"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "Inside EV startup Fisker\u2019s collapse: How the company crumbled under its founders\u2019 whims",
@@ -1019,7 +1092,8 @@
             "Fisker",
             "TechCrunch"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "Founders, are events useful?",
@@ -1030,25 +1104,27 @@
             "Alexis Ohanian"
         ],
         "startups": [
-            "Startups Weekly",
-            "Reddit"
+            "Reddit",
+            "Startups Weekly"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "positive"
     },
     {
         "title": "Postmates\u2019 founder\u2019s new app TipTop offers instant cash for your stuff",
         "excerpt": "When TechCrunch's former editor-in-chief Matthew Panzarino joined a startup, we knew it was one that would pique our interest. Panzarino, well-known among",
         "section": "founders",
         "founders": [
+            "Panzarino",
             "Sarah Perez",
-            "Matthew Panzarino",
-            "Panzarino"
+            "Matthew Panzarino"
         ],
         "startups": [
-            "TechCrunch",
-            "TipTop"
+            "TipTop",
+            "TechCrunch"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "positive"
     },
     {
         "title": "Telegram founder Pavel Durov arrested in France",
@@ -1061,7 +1137,8 @@
         "startups": [
             "Telegram"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "Is this 32-year-old a brilliant founder, or a deceptive fraudster?",
@@ -1073,22 +1150,24 @@
         "startups": [
             "TechCrunch"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "positive"
     },
     {
         "title": "Forget \u2018Founder Mode,\u2019 what about Customer Mode?",
         "excerpt": "Ed Zitron joins Equity to discuss the decline of traditional online services, shifting from \u2018founder mode\u2019 to \u2018customer mode,\u2019 and the future of generative AI companies like OpenAI.",
         "section": "founders",
         "founders": [
-            "Rebecca Bella",
+            "Ed Zitron",
             "Theresa Loconsolo",
-            "Ed Zitron"
+            "Rebecca Bella"
         ],
         "startups": [
             "Equity",
             "OpenAI"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "How are founders positioning themselves for the next 4 years?",
@@ -1096,21 +1175,22 @@
         "section": "founders",
         "founders": [
             "Anthony Ha",
-            "Theresa Loconsolo",
             "Margaux MacC",
-            "Kirsten Korosec"
+            "Kirsten Korosec",
+            "Theresa Loconsolo"
         ],
         "startups": [
             "TikTok",
+            "oll",
+            "IP",
             "OpenAI",
             "Equity",
-            "IP",
-            "oll",
             "Divvy Homes"
         ],
         "valuations": [
             "$100B"
-        ]
+        ],
+        "sentiment": "positive"
     },
     {
         "title": "Startup founders flooded inauguration parties hopeful for dealmaking",
@@ -1122,7 +1202,8 @@
         "startups": [
             "Startup"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "positive"
     },
     {
         "title": "Why founders shouldn\u2019t chase massive TAMs",
@@ -1132,7 +1213,8 @@
             "Tim De Chan"
         ],
         "startups": [],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "negative"
     },
     {
         "title": "AI safety advocates tell founders to slow down",
@@ -1142,39 +1224,42 @@
             "Amanda Silber"
         ],
         "startups": [],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "negative"
     },
     {
         "title": "Female Founders Fund returns its Fund I",
         "excerpt": "After 10 years, the Female Founders Fund has returned its $5.85 million Fund I, according to Fortune. The news makes FFF one of the few diverse-focused",
         "section": "founders",
         "founders": [
-            "Dominic",
-            "Madori"
+            "Madori",
+            "Dominic"
         ],
         "startups": [
-            "FFF",
             "Female Founders Fund",
+            "FFF",
             "Davis"
         ],
         "valuations": [
             "$5.85 million"
-        ]
+        ],
+        "sentiment": "positive"
     },
     {
         "title": "Newchip\u2019s bankruptcy serves as a cautionary tale to founders",
         "excerpt": "Today on Equity, we're diving deep into how Newchip's bankruptcy threatened the cap tables of thousands of startups.",
         "section": "founders",
         "founders": [
-            "Haje Jan Kamps",
             "Christine Hall",
-            "Mary Ann Azevedo"
+            "Mary Ann Azevedo",
+            "Haje Jan Kamps"
         ],
         "startups": [
-            "Newchip",
-            "Today on Equity"
+            "Today on Equity",
+            "Newchip"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "How founders should hire tech talent in 2025",
@@ -1184,7 +1269,8 @@
             "Yashad Kulkar"
         ],
         "startups": [],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "How to be an inspirational startup founder",
@@ -1194,23 +1280,25 @@
             "Scott Friend"
         ],
         "startups": [],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "positive"
     },
     {
         "title": "Amazon hires the founders of AI robotics startup Covariant",
         "excerpt": "Amazon announced Friday evening that it has hired Covariant's founders \u2014 Pieter Abbeel, Peter Chen, and Rocky Duan \u2014 along with \u201cabout a quarter\u201d of the",
         "section": "founders",
         "founders": [
-            "Pieter Abbeel",
             "Rocky Duan",
-            "Peter Chen"
+            "Peter Chen",
+            "Pieter Abbeel"
         ],
         "startups": [
-            "Covariant Amazon",
             "Covariant",
-            "Amazon"
+            "Amazon",
+            "Covariant Amazon"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     },
     {
         "title": "This founder had to train his AI not to Rickroll people",
@@ -1220,7 +1308,8 @@
             "Amanda Silber"
         ],
         "startups": [],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "negative"
     },
     {
         "title": "Web Summit derailed by founder\u2019s public fight with those supporting Israel in Hamas war",
@@ -1233,6 +1322,7 @@
             "Web",
             "Hamas"
         ],
-        "valuations": []
+        "valuations": [],
+        "sentiment": "neutral"
     }
 ]
